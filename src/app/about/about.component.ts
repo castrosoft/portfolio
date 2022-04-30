@@ -10,12 +10,12 @@ export class AboutComponent implements OnInit {
   // personalInformation2: string = "10 Apr 1991";
   personalInformation: any[] = [{
     "birthday": "10 Apr 1991",
-    "website": "www.pedrocastro.com",
+    "website": "https://castrosoft.github.io/portfolio/",
     "phone": "+59 3544 445189",
     "city": "Cordoba, ARG",
     "age": "30",
-    "degree": "Student",
-    "phEmailone": "pedro.castro@gmail.com",
+    "degree": "University",
+    "phEmailone": "cp.castropedro@gmail.com",
     "freelance": "Available"
   }];
 
