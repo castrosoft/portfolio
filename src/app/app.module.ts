@@ -5,7 +5,6 @@ import { AppComponent } from './app.component';
 import { AboutComponent } from './about/about.component';
 import { SkillsComponent } from './skills/skills.component';
 import { ResumeComponent } from './resume/resume.component';
-import { ContactsComponent } from './contacts/contacts.component';
 import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
@@ -14,7 +13,6 @@ import { FooterComponent } from './footer/footer.component';
     AboutComponent,
     SkillsComponent,
     ResumeComponent,
-    ContactsComponent,
     FooterComponent
   ],
   imports: [
