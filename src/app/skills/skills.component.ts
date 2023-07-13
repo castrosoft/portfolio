@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class SkillsComponent implements OnInit {
 
   skills: any[] = [{
+    "java": 80,
     "jira": 90,
     "postman": 90,
     "git": 75,
@@ -16,7 +17,7 @@ export class SkillsComponent implements OnInit {
     "noSql": 60,
     "sftp": 70,
     "log": 80
-    
+
   }];
 
   constructor() { }

@@ -7,6 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ResumeComponent implements OnInit {
 
+  personalInformation: any[] = [{
+    "fcefyn": " https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/ingenieria-computacion/ingenieria-en-computacion/"
+  }];
+
   constructor() { }
 
   ngOnInit(): void {
